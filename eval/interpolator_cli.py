@@ -66,8 +66,8 @@ import functools
 import os
 from typing import List, Sequence
 
-from . import interpolator as interpolator_lib
-from . import util
+from eval import interpolator as interpolator_lib
+from eval import util
 from absl import app
 from absl import flags
 from absl import logging

@@ -1,0 +1,15 @@
+pretrained/film_net/L1/saved_model/keras_metadata.pb
+pretrained/film_net/L1/saved_model/saved_model.pb
+pretrained/film_net/L1/saved_model/variables/variables.data-00000-of-00001
+pretrained/film_net/L1/saved_model/variables/variables.index
+pretrained/film_net/Style/saved_model/keras_metadata.pb
+pretrained/film_net/Style/saved_model/saved_model.pb
+pretrained/film_net/Style/saved_model/variables/variables.data-00000-of-00001
+pretrained/film_net/Style/saved_model/variables/variables.index
+pretrained/film_net/VGG/saved_model/keras_metadata.pb
+pretrained/film_net/VGG/saved_model/saved_model.pb
+pretrained/film_net/VGG/saved_model/variables/variables.data-00000-of-00001
+pretrained/film_net/VGG/saved_model/variables/variables.index
+pretrained/vgg/imagenet-vgg-verydeep-19.mat
+eval/__pycache__/interpolator.cpython-39.pyc
+eval/__pycache__/util.cpython-39.pyc
