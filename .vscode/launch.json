@@ -15,9 +15,10 @@
                 "PYTHONPATH": "${workspaceRoot}"
             },
             "args": [
-                "--pattern", "/mnt/c/data/0411",
+                "--pattern", "/mnt/c/data/0504/garden_ai01",
                 "--model_path", "pretrained/film_net/Style/saved_model",
-                "--times_to_interpolate", "7",
+                "--times_to_interpolate", "4",
+                "--fps", "30",
                 "--output_video"
             ]
         }
